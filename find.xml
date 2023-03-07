@@ -1,0 +1,13 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Directory '…\app [DataBinding_RetroFit.app]'" />
+    <option name="defaultScopeName" value="Directory '…\app [DataBinding_RetroFit.app]'" />
+    <option name="SEARCH_SCOPE" value="Directory '…\app [DataBinding_RetroFit.app]'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+  </component>
+</application>
